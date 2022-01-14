@@ -1,6 +1,6 @@
 #+title: 🔥 EMACS FROM HELL 🔥
 
-> /I warned you about Emacs bro!  I told you dog!/
+> /I warned you about Emacs bro!  I told you, dawg!/
 
 This is an Emacs configuration you should definitely not try.
 
