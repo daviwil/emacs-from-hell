@@ -10,6 +10,16 @@ However, since you insist:
 - *STEP 2*: =git clone https://github.com/daviwil/emacs-from-hell ~/.emacs.d=
 - *STEP 3*: PAIN
 
+* Contributing
+
+Yes, you can send a PR to add more pain and suffering to this configuration.  No, I will not fix your broken computer.
+
+At some point in the future, I will subject myself to the community-conjured demons in this configuration live on stream.
+
+* Streams
+
+- [[https://systemcrafters.net/live-streams/january-14-2022/][System Crafters Live! - Creating the World's WORST Emacs Configuration]] [[https://youtu.be/L4NaIUqx8fw][Part 1]] / [[https://youtu.be/IDFm4y6KLks][Part 2]]
+
 * License
 
 My team of lawyers have advised me that I must post a warranty disclaimer for the inevitable scenario when this configuration ruins your life:
