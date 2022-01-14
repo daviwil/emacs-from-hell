@@ -18,7 +18,7 @@ At some point in the future, I will subject myself to the community-conjured dem
 
 * Streams
 
-- [[https://systemcrafters.net/live-streams/january-14-2022/][System Crafters Live! - Creating the World's WORST Emacs Configuration]] [[https://youtu.be/L4NaIUqx8fw][Part 1]] / [[https://youtu.be/IDFm4y6KLks][Part 2]]
+- [[https://systemcrafters.net/live-streams/january-14-2022/][System Crafters Live! - Creating the World's WORST Emacs Configuration]]: [[https://youtu.be/L4NaIUqx8fw][Part 1]] / [[https://youtu.be/IDFm4y6KLks][Part 2]]
 
 * License
 
