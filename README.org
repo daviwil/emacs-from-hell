@@ -6,9 +6,9 @@ This is an Emacs configuration you should definitely not try.
 
 However, since you insist:
 
-*STEP 1*: Delete your existing Emacs configuration
-*STEP 2*: =git clone https://github.com/daviwil/emacs-from-hell ~/.emacs.d=
-*STEP 3*: PAIN
+- *STEP 1*: Delete your existing Emacs configuration
+- *STEP 2*: =git clone https://github.com/daviwil/emacs-from-hell ~/.emacs.d=
+- *STEP 3*: PAIN
 
 * License
 
